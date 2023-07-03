@@ -10,16 +10,8 @@ About
 The about section provides more details about Amritanshu Sharma. It includes a profile picture and a description of his skills and areas of knowledge. The section mentions his proficiency in Python, Java, Web Development, Computer Networks, Operating Systems, and MongoDB.
 
 Certifications
-The certifications section lists various certifications earned by Amritanshu Sharma. Each certification is accompanied by a brief description and a link to view/download the certificate. Some of the certifications mentioned include:
+The certifications section lists various certifications earned by Amritanshu Sharma. Each certification is accompanied by a brief description and a link to view/download the certificate.
 
-Data Processing & its application from IIRS, ISRO Dehradun
-Data Visualization from Kaggle
-Artificial Intelligence from Accenture
-Data Analysis with Python from IBM & Coursera
-Introduction to R from DataCamp
-Python Project in Data Science from Coursera
-Introduction to NoSQL from IBM & Coursera
-TCS iON Career Edge - Young Professional
 Achievements
 The achievements section highlights notable accomplishments of Amritanshu Sharma. It includes information about his internships, participation in learning events and workshops, and research projects.
 
