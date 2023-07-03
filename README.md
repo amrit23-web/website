@@ -6,15 +6,6 @@
 Portfolio of Amritanshu Sharma
 This is a simple HTML-based portfolio website for Amritanshu Sharma, a Data Science Engineer. The website showcases his profile, skills, certifications, and achievements.
 
-Table of Contents
-Home
-About
-Certifications
-Achievements
-Contact
-Home
-The home section displays a brief introduction of Amritanshu Sharma as a Data Science Engineer. It also mentions his specialization in Python and Java, as well as his expertise in Data Structures and Algorithms.
-
 About
 The about section provides more details about Amritanshu Sharma. It includes a profile picture and a description of his skills and areas of knowledge. The section mentions his proficiency in Python, Java, Web Development, Computer Networks, Operating Systems, and MongoDB.
 
